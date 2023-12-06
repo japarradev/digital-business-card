@@ -2,8 +2,6 @@
 ## _React Srimba Solo Project_
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 This is the fist solo project to the React Course in Scrimba 
 
 - https://scrimba.com/learn/learnreact/
